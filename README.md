@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rxue7
 - 👀 I’m interested in Anime,Basketball
-- 🌱 I have experince with React, Javascript, Java, Python, Sass, HTML/CSS, Node.js, Express.js, and many other tools
+- 🌱 I have experience with React, Javascript, Java, Python, Sass, HTML/CSS, Node.js, Express.js, and many other tools
 - 💞️ I’m looking to collaborate on Projects so I can learn more about coding
 - 📫 How to reach me Rickyxue7@hotmail.com
 
